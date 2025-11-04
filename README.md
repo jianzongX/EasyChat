@@ -1,4 +1,4 @@
-# LAN_ChatRoom
+# EasyChat
 一个python的局域网聊天&amp;文件传输工具
 ## 可以自定义端口在局域网内聊天
 ### 功能介绍
