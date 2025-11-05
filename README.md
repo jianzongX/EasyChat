@@ -1,7 +1,13 @@
-# EasyChat
+<img width="100" height="100" alt="image" src="image/icon.ico" /> 
+
+# **EasyChat** 
+
 一个python的局域网聊天&amp;文件传输工具
+
 ## 可以自定义端口在局域网内聊天
+
 ### 功能介绍
+
 #### 设置界面
 在启动软件后会先进入设置，在这里你可以设置你的ID，端口
 
